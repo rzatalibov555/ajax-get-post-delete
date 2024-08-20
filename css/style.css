@@ -1,0 +1,21 @@
+#res, #addSection{
+    width: 100%;
+    min-height: 350px;
+    background: lightblue;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.data{
+    min-width: 300px;
+    min-height: 50px;
+    background: grey;
+    color: white;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    display: flex;
+    align-items: center;
+    padding:0 5px;
+    box-sizing: border-box;
+}
